@@ -1,3 +1,11 @@
+"""
+# Copyright (c) 2022 BrownsugarZeer
+
+Original code repository: 
+    https://github.com/BrownsugarZeer/Multi_SSL/blob/main/src/utils/ssl.py
+"""
+
+
 import numpy as np
 import torch
 from speechbrain.processing.features import STFT

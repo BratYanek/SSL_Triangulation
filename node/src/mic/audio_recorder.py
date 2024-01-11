@@ -6,7 +6,6 @@ Modified to the latest version since some of the functions were deprecated.
 
 Original code repository: 
     https://github.com/pytorch/audio/blob/master/examples/interactive_asr/vad.py#L38
-    https://github.com/BrownsugarZeer/Multi_SSL/blob/main/src/mic/microphone_stream.py
 """
 
 
