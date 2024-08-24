@@ -1,7 +1,7 @@
 import numpy as np
 import socket
 import json
-import triangulation_algorythm as ta
+import intersection_algorythm as ta
 
                                                                 ##########################################
                                                                 #                                        #
