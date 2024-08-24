@@ -1,10 +1,10 @@
 import numpy as np
 import graph
-import triangulation_calculations as calc
+import intersection_calculations as calc
 
                                                                 #########################################
                                                                 #                                       #
-                                                                #       TRIANGULATION ALGORYTHM         #
+                                                                #       INTERSECTION ALGORYTHM          #
                                                                 #                                       #
                                                                 #########################################
 
