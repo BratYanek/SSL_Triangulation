@@ -8,7 +8,7 @@ import intersection_calculations as calc
                                                                 #                                       #
                                                                 #########################################
 
-def triangulation(data_matrix):
+def intersectiondata_matrix):
     # Given points
     node_matrix = np.array([[1,  1, 0.5],
                             [0,  1, 0.5]])
