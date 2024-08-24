@@ -84,7 +84,7 @@ if __name__ == "__main__":
         while True:
             data = start_server()
             data_matrix = build_data_matrix(data=data)
-            ta.triangulation(data_matrix=data_matrix)
+            ta.intersection(data_matrix=data_matrix)
     
     except KeyboardInterrupt:
         print("Server interrupted. Closing.")
