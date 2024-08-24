@@ -1,14 +1,14 @@
 import numpy as np
 import graph
-import triangulation_calculations as calc
+import intersection_calculations as calc
 
                                                                 #########################################
                                                                 #                                       #
-                                                                #       TRIANGULATION ALGORYTHM         #
+                                                                #       INTERSECTION ALGORYTHM          #
                                                                 #                                       #
                                                                 #########################################
 
-def triangulation(data_matrix):
+def intersection(data_matrix):
     # Given points
     node_matrix = np.array([[1,  1, 0.5],
                             [0.5,  1, 0.5]])
